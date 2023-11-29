@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "SofiaBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "SOFIA_VIP_BOT")
 
 #get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME" , "MissSofia")
