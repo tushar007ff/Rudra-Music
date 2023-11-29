@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_USERNAME = getenv("BOT_USERNAME" , "SOFIA_VIP_BOT")
 
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissSofia")
+ASSUSERNAME = getenv("ASSUSERNAME" , "SOFIA_VC_BOT")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
